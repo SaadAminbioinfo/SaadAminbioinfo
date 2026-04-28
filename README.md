@@ -1,4 +1,4 @@
-- 👋 Hi, here @SaadAminbioinfo(Bioinformatician).
+- 👋 Hey, here Saad Amin (Bioinformatician).
 - 👀 I’m interested in working with AI/ML models integration for drug discovery with focus on Drug Resistance and Antibiotic Resistance and Disease research.
 - 🌱 I’m currently working on ML,Big Data,GenAi and DL along with Biophysics approaches and Post Approaches.
 - 💞️ Open for collaboration with reserch teams with focus on Developmental approaches.
