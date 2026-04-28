@@ -50,11 +50,6 @@ with a focus on **antibiotic resistance, drug resistance, and complex diseases**
 The Following aformentioned can be found through my Publication and also on ResearchGate Profile through the following Link https://www.researchgate.net/profile/Saad-Amin-11/research
 ---
 
-## 📈 GitHub Stats
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🤝 Collaboration
