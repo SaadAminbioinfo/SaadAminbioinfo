@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saad Amin  
+# 👋 Hey, I'm Saad 
 ### 🧬 Bioinformatician | AI And ML for Drug Discovery
 
 🚀 Leveraging **AI, Machine Learning, and Generative AI** to accelerate drug discovery,  
